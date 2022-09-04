@@ -810,7 +810,7 @@ button[type="submit"]:hover {
 
 
 #slick-slide-control00 {
-  background: url(/images/avatar/12.png);
+  background: url(../images/avatar/12.png);
   background-size: 100%;
   border-radius: 50%;
   background-color: transparent;
@@ -820,7 +820,7 @@ button[type="submit"]:hover {
 }
 
 #slick-slide-control01 {
-  background: url(/images/avatar/33.png);
+  background: url(../images/avatar/33.png);
   background-size: 100%;
   border-radius: 50%;
   background-color: transparent;
@@ -830,7 +830,7 @@ button[type="submit"]:hover {
 }
 
 #slick-slide-control02 {
-  background: url(/images/avatar/16.png);
+  background: url(../images/avatar/16.png);
   background-size: 100%;
   border-radius: 50%;
   background-color: transparent;
